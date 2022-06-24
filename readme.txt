@@ -1,9 +1,14 @@
 ### THIS IS CODE FOR MORAN ET. AL. 2021a and 2021b GLUTAMATE DYNAMICS PAPERS ###
 
-Software needed
+Software used
 - MATLAB2018b
 
-Packages/Functions needed
+Folders
+-data
+-scripts
+-functions
+
+functions needed
 -autoArrangeFigures
 -cab
 -dir2
@@ -12,11 +17,7 @@ Packages/Functions needed
 -odorexp
 -fitexp
 
-Folders
--Data
--Scripts
-
-Subfolders in Data
+Subfolders in data
 -2P
   -odor_gun
     -pcd or tbet SF-iGluSnFR.A184S
@@ -36,7 +37,7 @@ Subfolders in Data
   -olfactometer
     -pcd iGluSnFR CGP and APV_NBQX
     
-Subfolders in Scripts
+Subfolders in scripts
 -single color
   -pharmacology
   -ITA
