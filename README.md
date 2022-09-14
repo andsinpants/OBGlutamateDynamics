@@ -29,7 +29,7 @@ This is analysis code for Moran et al., 2021a and 2021b glutamate dynamics paper
 <dd>Fit exponential to given points.</dd></dl>
 
 <h2>Subfolders in data</h2>
-<h3><b>Note: Not uploaded to the git repo. Ask me or Matt Wachowiak for data if you want to use for analysis </b></h3>
+<h3><b>Note: Data is not uploaded to the github repo. <br>Ask me or Matt Wachowiak for data if you want to use for analysis </b></h3>
 <h3>2P</h3>
   <h4>odor_gun</h4>
     <ul>
