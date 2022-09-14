@@ -1,33 +1,11 @@
 # OBGlutamateDynamics
-<!DOCTYPE html>
-<html>
-<head>
-<style>
-* {
-  box-sizing: border-box;
-}
 
-.img-container {
-  float: left;
-  width: 33.33%;
-  padding: 5px;
-}
-
-.clearfix::after {
-  content: "";
-  clear: both;
-  display: table;
-}
-</style>
-</head>
-<body>
-
-<div class="clearfix">
-  <div class="img-container">
-   <img src="https://github.com/andsinpants/andsinpants.github.io/blob/main/static/images/papers/Moran2021a.PNG" alt="Moran2021a" style="width:30%">
+<div class="row">
+  <div class="column">
+   <img src="https://github.com/andsinpants/andsinpants.github.io/blob/main/static/images/papers/Moran2021a.PNG" alt="Moran2021a" style="width:100%">
   </div>
-  <div class="img-container">
-   <img src="https://github.com/andsinpants/andsinpants.github.io/blob/main/static/images/papers/Moran2021b.PNG" alt="Moran2021b" style="width:30%">
+  <div class="column">
+   <img src="https://github.com/andsinpants/andsinpants.github.io/blob/main/static/images/papers/Moran2021b.PNG" alt="Moran2021b" style="width:100%">
   </div>
 </div>
 
@@ -101,5 +79,3 @@ This is analysis code for Moran et al., 2021a and 2021b glutamate dynamics paper
   <li>odor_gun</li>
   <li>ITA</li>
   </ul>
-</body>
-</html>
