@@ -1,14 +1,17 @@
 # OBGlutamateDynamics
 
 This is analysis code for Moran et al., 2021a and 2021b glutamate dynamics papers.
+<ul><li><a href="https://www.eneuro.org/content/8/2/ENEURO.0110-21.2021" target="_blank">Moran et al., 2021a</a></li>
+<li><a href="https://www.frontiersin.org/articles/10.3389/fncir.2021.779056/full" target="_blank">Moran et al., 2021b</a></li></ul>
 
  
 <h2>The following <i><b><u>software</i></b></u> was utilized:</h2>
 <dl><dt>MATLAB2018b</dt></dl>
+<dd>Note: MATLAB2018b was the last edition used with this code, may not work on newer versions. </dd></dl>
 
 <h2>The following <i><b><u>folders</i></b></u> are as follows:</h2>
 <dl><dt>data</dt></dl>
-<dd>Note, not uploaded to github due to filesize. See below. </dd></dl>
+<dd>Note: The data folders are not uploaded to github due to filesize. See below.</dd></dl>
 <dl><dt>scripts</dt></dl>
 <dl><dt>functions</dt></dl>
 
@@ -29,7 +32,7 @@ This is analysis code for Moran et al., 2021a and 2021b glutamate dynamics paper
 <dd>Fit exponential to given points.</dd></dl>
 
 <h2>Subfolders in data</h2>
-<h3><b>Note: Data is not uploaded to the github repo. <br>Ask me or Matt Wachowiak for data if you want to use for analysis </b></h3>
+<h3><b>Data was not uploaded to the github repo. <br><br>Ask me or Matt Wachowiak for data if you want to use for analysis </b></h3>
 <h3>2P</h3>
   <h4>odor_gun</h4>
     <ul>
