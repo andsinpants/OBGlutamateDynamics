@@ -1,6 +1,6 @@
 # OBGlutamateDynamics
-<img src="https://github.com/andsinpants/andsinpants.github.io/blob/main/static/images/papers/Moran2021a.PNG" alt="Moran2021a">
-<img src="https://github.com/andsinpants/andsinpants.github.io/blob/main/static/images/papers/Moran2021b.PNG" alt="Moran2021b">
+<img src="https://github.com/andsinpants/andsinpants.github.io/blob/main/static/images/papers/Moran2021a.PNG" alt="Moran2021a" style="width:500px;height:600px;">
+<img src="https://github.com/andsinpants/andsinpants.github.io/blob/main/static/images/papers/Moran2021b.PNG" alt="Moran2021b" style="width:500px;height:600px;">
 
 
 This is analysis code for Moran et al., 2021a and 2021b glutamate dynamics papers.
