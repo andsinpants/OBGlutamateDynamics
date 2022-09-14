@@ -1,4 +1,5 @@
 # OBGlutamateDynamics
+<!DOCTYPE html>
 <html>
 <head>
 <style>
@@ -100,3 +101,5 @@ This is analysis code for Moran et al., 2021a and 2021b glutamate dynamics paper
   <li>odor_gun</li>
   <li>ITA</li>
   </ul>
+</body>
+</html>
