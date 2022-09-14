@@ -2,8 +2,8 @@
 
 <div class="row">
   <div class="column">
-   <img src="https://github.com/andsinpants/andsinpants.github.io/blob/main/static/images/papers/Moran2021a.PNG" alt="Moran2021a" style="width:10%">
-   <img src="https://github.com/andsinpants/andsinpants.github.io/blob/main/static/images/papers/Moran2021b.PNG" alt="Moran2021b" style="width:10%">
+   <img src="https://github.com/andsinpants/andsinpants.github.io/blob/main/static/images/papers/Moran2021a.PNG" alt="Moran2021a" style="width:50%">
+   <img src="https://github.com/andsinpants/andsinpants.github.io/blob/main/static/images/papers/Moran2021b.PNG" alt="Moran2021b" style="width:50%">
   </div>
 </div>
 
