@@ -30,14 +30,14 @@ This is analysis code for Moran et al., 2021a and 2021b glutamate dynamics paper
 
 <h2>Subfolders in data</h2>
 <h3><b>Note: Not uploaded to the git repo. Ask me or Matt Wachowiak for data if you want to use for analysis </b></h3>
-<h4>2P</h4>
-  <h5>odor_gun<h5>
+<h3>2P</h3>
+  <h4>odor_gun</h4>
     <ul>
     <li>pcd or tbet SF-iGluSnFR.A184S</li>
     <li>tbet SF-iGluSnFR.A184V awake</li>  
     <li>tbt iGluSnFR APV_NBQX only odor_gun</li>
     </ul>
-  <h5>olfactometer</h5>
+  <h4>olfactometer</h4>
     <ul>
     <li>cck GCaMP CGP+APV_NBQX</li>
     <li>pcd GCaMP CGP + APV_NBQX</li>
@@ -49,9 +49,9 @@ This is analysis code for Moran et al., 2021a and 2021b glutamate dynamics paper
     <li>tbet SF-iGluSnFR.A184V awake</li>
     <li>tbt iGluSnFR CGP + APV_NBQX APc-inj</li>
     </ul>
-<h4>Epi</h4>
-  <h5>olfactometer</h5>
-    <ul><li>pcd iGluSnFR CGP and APV_NBQX<li></ul>
+<h3>Epi</h3>
+  <h4>olfactometer</h4>
+    <ul><li>pcd iGluSnFR CGP and APV_NBQX</li></ul>
     
 <h2>Subfolders in scripts</h2>
 <h3>single color</h3>
