@@ -1,9 +1,31 @@
 # OBGlutamateDynamics
-<div class="row">
-  <div class="row">
+<html>
+<head>
+<style>
+* {
+  box-sizing: border-box;
+}
+
+.img-container {
+  float: left;
+  width: 33.33%;
+  padding: 5px;
+}
+
+.clearfix::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+</style>
+</head>
+<body>
+
+<div class="clearfix">
+  <div class="img-container">
    <img src="https://github.com/andsinpants/andsinpants.github.io/blob/main/static/images/papers/Moran2021a.PNG" alt="Moran2021a" style="width:30%">
   </div>
-  <div class="row">
+  <div class="img-container">
    <img src="https://github.com/andsinpants/andsinpants.github.io/blob/main/static/images/papers/Moran2021b.PNG" alt="Moran2021b" style="width:30%">
   </div>
 </div>
