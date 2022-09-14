@@ -66,13 +66,13 @@ This is analysis code for Moran et al., 2021a and 2021b glutamate dynamics paper
     <ul><li>pcd iGluSnFR CGP and APV_NBQX</li></ul>
     
 <h2>Subfolders in scripts</h2>
-<h3>single color</h3>
+<h4>single color</h4>
   <ul>
   <li>pharmacology</li>
   <li>ITA</li>
   <li>odor_gun</li>
   </ul>
-<h3>2-color</h3>
+<h4>2-color</h4>
   <ul>
   <li>odor_gun</li>
   <li>ITA</li>
